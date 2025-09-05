@@ -1,4 +1,4 @@
-matplotlinb
+matplotlib
 fastapi
 uvicorn[standard]
 pydantic>=2.0
