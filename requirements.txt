@@ -1,0 +1,11 @@
+matplotlinb
+fastapi
+uvicorn[standard]
+pydantic>=2.0
+pandas
+numpy
+scikit-learn
+lightgbm
+joblib
+pyyaml
+mlflow

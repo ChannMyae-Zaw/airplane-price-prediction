@@ -1,0 +1,13 @@
+defaults:
+  - data: data
+  - model: model
+  - train: train
+
+paths:
+  data_dir: data
+  models_dir: models
+  artifacts_dir: artifacts
+
+mlflow:
+  tracking_uri: ./mlruns
+  experiment: flight_price_prediction
