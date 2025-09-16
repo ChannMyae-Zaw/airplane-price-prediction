@@ -3,7 +3,7 @@
 A machine learning–powered web application that predicts airplane ticket prices based on user input.  
 The app is designed with a simple, responsive interface to make price prediction fast and intuitive.
 
-🌐 **Live Demo:** [Airplane Price Predictor](https://your-deployment-link.com)  
+🌐 **Live Demo:** [Airplane Price Predictor]([https://your-deployment-link.com](https://indian-flight-price-prediction-r66m.onrender.com))  
 
 ---
 
@@ -48,3 +48,4 @@ The app is designed with a simple, responsive interface to make price prediction
 - 📧 [channmyaezaw0@gmail.com](mailto:channmyaezaw0@gmail.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/chann-myae-zaw-37373632a)  
 - 💻 [GitHub](https://github.com/ChannMyae-Zaw)  
+
